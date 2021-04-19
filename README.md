@@ -32,9 +32,14 @@ Starla alem de criar figurinhas consegue consumir a API do SINESP, sendo assim p
 
 ![teste (1)](https://user-images.githubusercontent.com/71731452/111247678-3058d600-85e7-11eb-86bf-3a4a4e35a96f.png)
 
+## Uso
+
+Atualmente a Starla está online 24h por dia, você pode testa-la no _55 61 98404-7093_
+
+
 ## Roadmap
 
-Consulte os [issues](https://github.com/marceloapd/Starla/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
+Consulte os [issues](https://github.com/AssisDev/starla/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
 ## Contribuindo
@@ -44,12 +49,3 @@ Contribuição de novas funcionalidades serão bem vindas.
 ## Licença
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-## Contato
-
-Marcelo Assis - [@marceloapda](https://twitter.com/marceloapda) - marcelo.apdassis@gmail.com
-
-Link do Projeto: [https://github.com/marceloapd/Starla](https://github.com/marceloapd/Starla)
-
