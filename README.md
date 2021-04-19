@@ -24,7 +24,7 @@ Trata-se de um BOT desenvolvido em Node.js com foco em criar rapidamente "sticke
 1. Clone o repositorio https://github.com/marceloapd/Starla
 2. Abre o terminal no diretorio do projeto
 3. execute o comando npm install
-4. no diretorio .\src\ execute o comando node index.js
+4. no diretorio .\src\ execute o comando node main.js
 
 ## Outras funcionalidades 
 
