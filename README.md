@@ -28,9 +28,8 @@ Trata-se de um BOT desenvolvido em Node.js com foco em criar rapidamente "sticke
 
 ## Outras funcionalidades 
 
-Starla alem de criar figurinhas consegue consumir a API do SINESP, sendo assim pode fornecer dados de qualquer veiculo.
+Starla alem de criar figurinhas tambem pode te enviar seu horoscopo.
 
-![teste (1)](https://user-images.githubusercontent.com/71731452/111247678-3058d600-85e7-11eb-86bf-3a4a4e35a96f.png)
 
 ## Uso
 
