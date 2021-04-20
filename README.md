@@ -31,11 +31,6 @@ Trata-se de um BOT desenvolvido em Node.js com foco em criar rapidamente "sticke
 Starla alem de criar figurinhas tambem pode te enviar seu horoscopo.
 
 
-## Uso
-
-Atualmente a Starla está online 24h por dia, você pode testa-la no _55 61 98404-7093_
-
-
 ## Roadmap
 
 Consulte os [issues](https://github.com/AssisDev/starla/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
