@@ -11,19 +11,19 @@ Essas instruções fornecerão uma cópia do projeto em funcionamento em sua má
 
 ### Pré-requisitos
 
-ffmpeg 
-graphicsmagic
+* ffmpeg 
+* graphicsmagic
 
 ### Instalando
 
 Em um terminal bash executamos os comandos
 
-1 - sudo apt install ffmpeg
-2 - sudo apt-get install -y graphicsmagick
+* sudo apt install ffmpeg
+* sudo apt-get install -y graphicsmagick
 
 Apos isso dentro da pasta server do projeto executamos os comandos
 
-1 -  npm install
+* npm install
 
 ## Utilizando a Starla
 
