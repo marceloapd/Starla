@@ -29,7 +29,7 @@ Apos isso dentro da pasta server do projeto executamos os comandos
 
 ### No chat de grupos
 
-#figurinha mencione uma foto que alguem do grupo enviou utilizando esse comando ou me mande uma foto com esse comando de legenda que irei criar uma figurinha, tambem consigo criar figurinhas animadas com videos ou gifs
+#figurinha mencione uma foto que alguem do grupo enviou utilizando esse comando ou mande uma foto com esse comando de legenda que sera criado uma figurinha, tambem é possivel criar figurinhas animadas com videos ou gifs
 
 #horoscopo para consultar seu horoscopo digite esse comando seguido de seu signo.
 (exemplo: #horoscopo escorpiao)
@@ -46,7 +46,6 @@ Mande videos, gifs e imagens para receber uma figurinha
 ## Built With
 
 * [Venom-bot](https://www.npmjs.com/package/venom-bot)
-* 
 
 ## Autores
 
