@@ -49,8 +49,8 @@ Mande videos, gifs e imagens para receber uma figurinha
 
 ## Autores
 
-* ** Marcelo Assis ** - [marceloapd](https://github.com/marceloapd)
-* ** Matheys Assis ** - [MatheusAssisM](https://github.com/MatheusAssisM)
+* **Marcelo Assis** - [marceloapd](https://github.com/marceloapd)
+* **Matheys Assis** - [MatheusAssisM](https://github.com/MatheusAssisM)
 
 ## Licença
 
