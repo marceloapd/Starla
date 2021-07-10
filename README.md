@@ -1,4 +1,4 @@
-# Título do projeto
+# Starla
 
 Starla trata-se de um BOT desenvolvido em Node.js com foco em criar rapidamente figurinhas animadas ou estáticas para WhatsApp.
 
