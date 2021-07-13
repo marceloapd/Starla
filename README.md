@@ -7,7 +7,7 @@ Starla trata-se de um BOT desenvolvido em Node.js com foco em criar rapidamente 
 
 ## Começando
 
-Essas instruções fornecerão uma cópia do projeto em funcionamento em sua máquina local para fins de desenvolvimento e teste. Consulte a implantação de notas sobre como implantar o projeto em um sistema ao vivo.
+Para começar clone a versão mais recente disponivel e siga os passos a seguir.
 
 ### Pré-requisitos
 
@@ -21,7 +21,7 @@ Em um terminal bash executamos os comandos
 * sudo apt install ffmpeg
 * sudo apt-get install -y graphicsmagick
 
-Apos isso dentro da pasta server do projeto executamos os comandos
+Apos isso dentro da pasta server do projeto executamos o comando
 
 * npm install
 
