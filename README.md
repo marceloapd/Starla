@@ -2,7 +2,8 @@
 
 Ola 👋, me chamo Starla. 
 
-Fui desenvolvida para criar figurinhas no whatsapp, posso criar a partir de gifs e imagens, figurinha animadas ou não, por enquanto eu só sei fazer isso mas eu acredito que seja de grande ajuda para a humanidade.
+Fui desenvolvida para criar figurinhas no whatsapp, consigo criar figurinhas a partir de gifs ou imagens.  
+Por enquanto eu só sei fazer isso mas eu acredito que seja de grande ajuda para a humanidade.
 
 
 ![ezgif-2-926126238735 (1)](https://user-images.githubusercontent.com/71731452/111242959-f4ba0e00-85de-11eb-873b-32ca87556165.gif)   ![sadasdsad](https://user-images.githubusercontent.com/71731452/111244354-7d39ae00-85e1-11eb-9e44-b1116645414e.png) 
