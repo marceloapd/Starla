@@ -31,17 +31,9 @@ Apos isso dentro da pasta server do projeto executamos os comandos
 
 #figurinha mencione uma foto que alguem do grupo enviou utilizando esse comando ou mande uma foto com esse comando de legenda que sera criado uma figurinha, tambem é possivel criar figurinhas animadas com videos ou gifs
 
-#horoscopo para consultar seu horoscopo digite esse comando seguido de seu signo.
-(exemplo: #horoscopo escorpiao)
-
 ### No chat privado
 
 Mande videos, gifs e imagens para receber uma figurinha
-
-#horoscopo para consultar seu horoscopo digite esse comando seguido de seu signo.
-(exemplo: #horoscopo escorpiao)
-
-#horoscopo diario para receber seu horoscopo diariamente digite esse comando seguido de seu signo.
 
 ## Built With
 
