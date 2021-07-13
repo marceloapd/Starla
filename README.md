@@ -34,15 +34,14 @@ Apos isso dentro da pasta server do projeto executamos o comando
 
 #figurinha mencione uma foto que alguem do grupo enviou utilizando esse comando ou mande uma foto com esse comando de legenda que sera criado uma figurinha, tambem é possivel criar figurinhas animadas com videos ou gifs
 
-![ezgif-1-34c97c1a9217](https://user-images.githubusercontent.com/71731452/125381286-041d4e00-e36a-11eb-9f13-003941aeb934.gif)
+![GRUPO](https://user-images.githubusercontent.com/71731452/125382649-6ecf8900-e36c-11eb-909f-27de01dfc5f8.gif)
 
 
 ### No chat privado
 
 Mande videos, gifs e imagens para receber uma figurinha
 
-![ezgif-1-421ac03fdac7](https://user-images.githubusercontent.com/71731452/125377906-2ca24980-e364-11eb-8624-619dee6e2f4e.gif)
-
+![PRIVADO](https://user-images.githubusercontent.com/71731452/125382658-71ca7980-e36c-11eb-81af-01106799f032.gif)
 
 
 ## Built With
