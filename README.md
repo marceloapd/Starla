@@ -23,6 +23,7 @@ Em um terminal bash executamos os comandos
 
 * sudo apt install ffmpeg
 * sudo apt-get install -y graphicsmagick
+* sudo apt install chromium-browser
 
 Apos isso dentro da pasta server do projeto executamos o comando
 
